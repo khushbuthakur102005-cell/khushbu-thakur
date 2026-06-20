@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Khushbu Thakur</h1>
 <h3 align="center">A passionate Java Full Stack Developer and Open Source Contributor from India</h3>
+<img align="right" alt="coding" width="400"src="https://www.google.com/search?sca_esv=15dd5921608fa9cf&aep=1&sxsrf=APpeQns_mgtLbyRnsRtZ5xQ-h1J34jLwMA:1781974245907&q=girl+coding+aesthetic+animated+coding+gif&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rS9jSSi8nSgZvoXFSx2jpwEv1XxJ734a1UpGzYwGGgq4I19GjdS-aiaklT7kk-VGcQ2BggIf2-qktjjqTXFszobThoZE6cRHf3RJqLFSmJyAgXLHSh5WGQ5It7SWOqQCoXRBUOFU6DmQE8wURhe1lnfMyBF_IzG6XaG-LoNqpOehKfgPDsiH3BCg8wU28C4bpF-uycw&udm=2&sa=X&ved=2ahUKEwjmh7Svo5aVAxWxRmwGHVW3DQsQxKsJKAd6BQj0BRAB&ictx=0&biw=1920&bih=970&dpr=1#sv=CAMSURoyKhBlLW9BMXpwaW1ndEI1UEZNMg5vQTF6cGltZ3RCNVBGTToOdzd0S1c0RVBoR1NOaU0gBCoXCgFzEhBlLW9BMXpwaW1ndEI1UEZNGAEwARgHILyCw40LSggQARgBIAEoAQ">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushbuthakur102005-cell&label=Profile%20views&color=0e75b6&style=flat" alt="khushbuthakur102005-cell" /> </p>
 
